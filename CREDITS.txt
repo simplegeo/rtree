@@ -1,0 +1,9 @@
+
+Sean Gillies <sgillies@frii.com>
+Howard Butler <hobu.inc@gmail.com>
+Brent Pedersen <bpederse@gmail.com>
+
+Spatial indexing is based on code by Marios Hadjieleftheriou, who has developed
+spatial index library and published it under GNU LGPL. This code is based on
+version 1.4.0 of the library: http://research.att.com/~marioh/spatialindex/index.html.
+

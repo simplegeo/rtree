@@ -1,3 +1,9 @@
+rtree (0.6.0-sg2) lucid; urgency=low
+
+  * UNRELEASED
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Wed, 07 Jul 2010 02:15:54 +0000
+
 rtree (0.6.0-sg0) unstable; urgency=low
 
   * Initial release.

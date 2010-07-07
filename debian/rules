@@ -7,3 +7,6 @@ include /usr/share/cdbs/1/class/python-distutils.mk
 
 
 # Add here any variable or target overrides you need.
+
+build/python-rtree::
+	python setup.py test

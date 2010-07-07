@@ -76,7 +76,7 @@ if os.name == 'nt':
         raise
 elif os.name == 'posix':
     platform = os.uname()[0]
-    lib_name = 'libspatialindex_c.so'
+    lib_name = 'libspatialindex_c.so.1'
     if platform == 'Darwin':
         lib_name = 'libspatialindex_c.dylib'
         free = ctypes.CDLL(find_library('libc')).free

@@ -9,7 +9,7 @@ Homepage: http://pypi.python.org/pypi/Rtree/0.6.0
 
 Package: python-rtree
 Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends}, libspatialindex
+Depends: ${shlibs:Depends}, ${misc:Depends}, libspatialindex1
 Description: R-Tree spatial index for Python GIS
  Rtree is a Python library that uses ctypes to wrap
  libspatialindex. R-trees possess excellent query performance, good

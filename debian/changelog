@@ -1,0 +1,5 @@
+rtree (0.6.0-sg1) unstable; urgency=low
+
+  * Initial release.
+
+ -- Ian Eure <ian@simplegeo.com>  Tue, 06 Jul 2010 16:45:51 -0700

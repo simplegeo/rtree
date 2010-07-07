@@ -1,0 +1,19 @@
+Source: rtree
+Section: python
+Priority: extra
+Maintainer: SimpleGeo Nerds <nerds@simplegeo.com>
+Uploaders: Ian Eure <ian@simplegeo.com>
+Build-Depends: cdbs, debhelper (>= 7), python, python-setuptools, python-support
+Standards-Version: 3.8.4
+Homepage: http://pypi.python.org/pypi/Rtree/0.6.0
+
+Package: python-rtree
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, libspatialindex
+Description: R-Tree spatial index for Python GIS
+ Rtree is a Python library that uses ctypes to wrap
+ libspatialindex. R-trees possess excellent query performance, good
+ incremental insert performance, and great flexibility in the spatial
+ indexing algorithms world.
+
+

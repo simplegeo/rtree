@@ -1,0 +1,35 @@
+This work was packaged for Debian by:
+
+    Ian Eure <ian@simplegeo.com> on Tue, 06 Jul 2010 16:45:51 -0700
+
+It was downloaded from http://pypi.python.org/pypi/Rtree
+
+Upstream Author(s):
+
+    Sean Gillies <sgillies@frii.com>
+
+Copyright:
+
+    Copyright (C) 2006-2010 Sean Gillies <sgillies@frii.com>
+
+License:
+
+    This package is free software; you can redistribute it and/or
+    modify it under the terms of the GNU Lesser General Public
+    License as published by the Free Software Foundation; either
+    version 2 of the License, or (at your option) any later version.
+
+    This package is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+    Lesser General Public License for more details.
+
+    You should have received a copy of the GNU Lesser General Public
+    License along with this package; if not, write to the Free Software
+    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301 USA
+
+The Debian packaging is:
+
+    Copyright (C) 2010 SimpleGeo, Inc.
+
+and is licensed under the BSD license, see `/usr/share/common-licenses/BSD'.
